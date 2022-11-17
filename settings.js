@@ -29,11 +29,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['01094338494'] // owner number
+global.vcardowner = ['+201094338494'] // owner number
 global.ownername = "😎MAHMOUD NASR❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "Egypt, KaerElshaikh" // location
+global.location = "Egypt, KafrElshaikh" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -47,8 +47,8 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+01094338494']
-global.ownertag = '+01094338494' //your tag number
+global.owner = ['+201094338494']
+global.ownertag = '+201094338494' //your tag number
 global.botname = '𝓜𝓐𝓗𝓜𝓞𝓤𝓓╺ 𝓝𝓐𝓢𝓡 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "mOdy STicker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ mOdy" // sticker author
